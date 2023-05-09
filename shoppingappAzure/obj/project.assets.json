@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\AAsp.net-Project\\AzureLearn\\shoppingappAzure\\shoppingappAzure\\shoppingappAzure.csproj",
+      "projectUniqueName": "C:\\Users\\ManikandanP\\Desktop\\shopping-azure-app-training\\shoppingappAzure\\shoppingappAzure.csproj",
       "projectName": "shoppingappAzure",
-      "projectPath": "E:\\AAsp.net-Project\\AzureLearn\\shoppingappAzure\\shoppingappAzure\\shoppingappAzure.csproj",
+      "projectPath": "C:\\Users\\ManikandanP\\Desktop\\shopping-azure-app-training\\shoppingappAzure\\shoppingappAzure.csproj",
       "packagesPath": "C:\\Users\\ManikandanP\\.nuget\\packages\\",
-      "outputPath": "E:\\AAsp.net-Project\\AzureLearn\\shoppingappAzure\\shoppingappAzure\\obj\\",
+      "outputPath": "C:\\Users\\ManikandanP\\Desktop\\shopping-azure-app-training\\shoppingappAzure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
